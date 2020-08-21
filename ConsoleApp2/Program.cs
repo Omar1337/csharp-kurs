@@ -164,6 +164,19 @@ namespace ConsoleApp2
 
             //Console.WriteLine(myArray[2]);
 
+            //int[] grades = { 55, 76, 88, 99, 100 };
+
+            //for ( int i = 0; i < grades.Length; i++)
+            
+            //{
+            //    grades[i] += 3;
+            //    Console.WriteLine(grades[i]);
+            //}
+
+            //foreach (int score in grades)
+            //{
+            //    Console.WriteLine(score);
+            //}
 
 
 
