@@ -167,7 +167,7 @@ namespace ConsoleApp2
             //int[] grades = { 55, 76, 88, 99, 100 };
 
             //for ( int i = 0; i < grades.Length; i++)
-            
+
             //{
             //    grades[i] += 3;
             //    Console.WriteLine(grades[i]);
@@ -178,6 +178,32 @@ namespace ConsoleApp2
             //    Console.WriteLine(score);
             //}
 
+            //string[] students = { "bob", "ted", "dieter", "kekw" };
+            //int[] grades = { 77, 50, 78, 99 };
+
+            //Console.WriteLine("enter name");
+            //string studentsname = Console.ReadLine();
+
+            //bool contains = false;
+            //int studentsgrade =0;
+
+            //for (int i = 0; i <students.Length;i++)
+            //{
+            //    if (studentsname==students[i])
+            //    {
+            //        contains = true;
+            //        studentsgrade = grades[i];
+            //        break;
+            //    }
+            //}
+            //if (contains == true)
+            //{
+            //    Console.WriteLine("the student is in the class und seine note ist {0}",studentsgrade);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("the student is not in the clas");
+            //}
 
 
 
