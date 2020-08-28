@@ -266,6 +266,21 @@ namespace ConsoleApp2
             //    Console.WriteLine();
             //}
 
+            //int[] zipcode = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+            //Console.WriteLine("gebe zipcode");
+            //int number = int.Parse(Console.ReadLine());
+
+            //int answer = Array.BinarySearch(zipcode, number);
+            //if (answer <0)
+            //{
+            //    Console.WriteLine("sorry gibts nicht");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("jo");
+            //}
+
 
         }
     }
