@@ -205,8 +205,34 @@ namespace ConsoleApp2
             //    Console.WriteLine("the student is not in the clas");
             //}
 
+            //int[] myArray = { 10, 15, 20, 25, 30, 35, 40 };
+            //Console.WriteLine("Gib Zahl");
+            //int number = int.Parse(Console.ReadLine());
 
+            //int answer = Array.BinarySearch(myArray, number);
+            //if (answer < 0)
+            //{
+            //    Console.WriteLine("the number gibts nicht");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("the number position in the array is {0}", answer);
+            //}
 
+            //int[] myArray = { 10, 4, 1, 11, 20 };
+            //Array.Sort(myArray);
+            //for(int i =0;i<myArray.Length;i++)
+            //{
+            //    Console.WriteLine(myArray[i]);
+            //}
+
+            //int[] myArray = { 1, 2, 5, 7, 10, 11 };
+            //Array.Reverse(myArray);
+
+            //for (int i = 0; i < myArray.Length; i++)
+            //{
+            //    Console.WriteLine(myArray[i]);
+            //}
 
         }
     }
