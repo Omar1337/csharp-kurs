@@ -234,6 +234,39 @@ namespace ConsoleApp2
             //    Console.WriteLine(myArray[i]);
             //}
 
+            //int[,] myArray = new int[3, 4];
+            //myArray[0, 0] = 5;
+            //myArray[0, 1] = 6;
+            //int[,] myA =
+            //{
+            //    {5,6,7,8 },
+            //    {7,8,9,10},
+            //    {7,8,9,10}
+            //};
+            //for( int i =0;i<3;i++)
+            //{
+            //    for (int j =0; j<4;j++)
+            //    {
+            //        Console.Write(myA[i, j]);
+            //    }
+            //    Console.WriteLine();
+            //}
+
+            //int[][] myArray = new int[3][];
+            //myArray[0] = new int[4] { 5, 4, 3, 2 };
+            //myArray[1] = new int[10] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 1 };
+            //myArray[2] = new int[1] { 1 };
+
+            //for (int i = 0; i<3;i++)
+            //{
+            //    for (int j = 0; j < myArray[i].Length;j++)
+            //    {
+            //        Console.Write(myArray[i][j]);
+            //    }
+            //    Console.WriteLine();
+            //}
+
+
         }
     }
 }
