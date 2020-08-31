@@ -287,24 +287,27 @@ namespace ConsoleApp2
             //int[] Students = new int[anzahl];
             //string[] name = new string[anzahl];
             //int[] note = new int[anzahl];
-            //int ge =0;
+            //int ge = 0;
             //float durchschnitt;
-            //for (int i = 0;i<anzahl;i++)
+            //for (int i = 0; i < anzahl; i++)
             //{
             //    Console.WriteLine("name");
             //    name[i] = Console.ReadLine();
             //    Console.WriteLine("note");
             //    note[i] = int.Parse(Console.ReadLine());
+                
             //}
-            //for (int x = 0;x<anzahl;x++)
+            //for (int x = 0; x < anzahl; x++)
             //{
-            //     ge += note[x];
+            //    ge += note[x];
             //}
             //durchschnitt = (float)ge / anzahl;
 
             //Array.Sort(note);
-            //int beste = note[note.Length-1];
+            //int beste = note[note.Length - 1];
             //Console.WriteLine("die beste note ist {0} und der durschnitt ist{1}", beste, durchschnitt);
+
+
 
         }
     }
